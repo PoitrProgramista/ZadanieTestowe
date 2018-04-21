@@ -2,10 +2,10 @@
   MainFrm.cpp
   ZadanieTestowe.cpp
   ZadanieTestoweDoc.cpp
-c:\users\piotr\documents\visual studio 2017\projects\zadanietestowe\zadanietestowe\zadanietestowedoc.cpp(217): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
-c:\users\piotr\documents\visual studio 2017\projects\zadanietestowe\zadanietestowe\zadanietestowedoc.cpp(221): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\piotr\documents\visual studio 2017\projects\zadanietestowe\zadanietestowe\zadanietestowedoc.cpp(215): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\piotr\documents\visual studio 2017\projects\zadanietestowe\zadanietestowe\zadanietestowedoc.cpp(219): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
   ZadanieTestoweView.cpp
   Generating code
-  All 453 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 536 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   ZadanieTestowe.vcxproj -> C:\Users\Piotr\Documents\Visual Studio 2017\Projects\ZadanieTestowe\Release\ZadanieTestowe.exe

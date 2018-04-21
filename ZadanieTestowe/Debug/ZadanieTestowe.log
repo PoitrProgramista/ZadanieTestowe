@@ -1,7 +1,8 @@
-﻿  ZadanieTestowe.cpp
+﻿  MainFrm.cpp
+  ZadanieTestowe.cpp
   ZadanieTestoweDoc.cpp
-c:\users\piotr\documents\visual studio 2017\projects\zadanietestowe\zadanietestowe\zadanietestowedoc.cpp(217): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
-c:\users\piotr\documents\visual studio 2017\projects\zadanietestowe\zadanietestowe\zadanietestowedoc.cpp(221): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\piotr\documents\visual studio 2017\projects\zadanietestowe\zadanietestowe\zadanietestowedoc.cpp(215): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\piotr\documents\visual studio 2017\projects\zadanietestowe\zadanietestowe\zadanietestowedoc.cpp(219): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
   ZadanieTestoweView.cpp
   Generating Code...
   Shapelib.lib(shpopen.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
